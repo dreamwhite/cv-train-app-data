@@ -5,7 +5,7 @@
         "description": "Stazione di Porta Nolana, capolinea delle linee Circumvesuviana.",
         "latitude": 40.8521,
         "longitude": 14.2728,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/1.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/1.png"
     },
     {
         "id": 3,
@@ -13,7 +13,7 @@
         "description": "Stazione di Garibaldi, connessa alla metropolitana di Napoli.",
         "latitude": 40.8595,
         "longitude": 14.2728,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/3.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/3.png"
     },
     {
         "id": 4,
@@ -21,7 +21,7 @@
         "description": "Stazione di Via Gianturco.",
         "latitude": 40.8432,
         "longitude": 14.2748,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/4.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/4.png"
     },
     {
         "id": 5,
@@ -29,7 +29,7 @@
         "description": "Stazione di San Giovanni a Teduccio.",
         "latitude": 40.8521,
         "longitude": 14.3000,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/5.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/5.png"
     },
     {
         "id": 6,
@@ -37,7 +37,7 @@
         "description": "Stazione di Barra.",
         "latitude": 40.8522,
         "longitude": 14.3001,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/6.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/6.png"
     },
     {
         "id": 7,
@@ -45,7 +45,7 @@
         "description": "Stazione di Ponticelli.",
         "latitude": 40.8523,
         "longitude": 14.3002,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/7.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/7.png"
     },
     {
         "id": 8,
@@ -53,7 +53,7 @@
         "description": "Stazione di Cercola.",
         "latitude": 40.8524,
         "longitude": 14.3003,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/8.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/8.png"
     },
     {
         "id": 9,
@@ -61,7 +61,7 @@
         "description": "Stazione di Pollena.",
         "latitude": 40.8525,
         "longitude": 14.3004,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/9.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/9.png"
     },
     {
         "id": 10,
@@ -69,7 +69,7 @@
         "description": "Stazione di Guindazzi.",
         "latitude": 40.8526,
         "longitude": 14.3005,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/10.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/10.png"
     },
     {
         "id": 11,
@@ -77,7 +77,7 @@
         "description": "Stazione di Madonna dell'Arco.",
         "latitude": 40.8527,
         "longitude": 14.3006,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/11.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/11.png"
     },
     {
         "id": 12,
@@ -85,7 +85,7 @@
         "description": "Stazione di Sant'Anastasia.",
         "latitude": 40.8528,
         "longitude": 14.3007,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/12.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/12.png"
     },
     {
         "id": 13,
@@ -93,7 +93,7 @@
         "description": "Stazione di Villa Augustea.",
         "latitude": 40.8529,
         "longitude": 14.3008,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/13.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/13.png"
     },
     {
         "id": 14,
@@ -101,7 +101,7 @@
         "description": "Stazione di Somma Vesuviana.",
         "latitude": 40.8530,
         "longitude": 14.3009,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/14.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/14.png"
     },
     {
         "id": 15,
@@ -109,7 +109,7 @@
         "description": "Stazione di Rione Trieste.",
         "latitude": 40.8531,
         "longitude": 14.3010,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/15.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/15.png"
     },
     {
         "id": 16,
@@ -117,7 +117,7 @@
         "description": "Stazione di Ottaviano.",
         "latitude": 40.8532,
         "longitude": 14.3011,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/16.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/16.png"
     },
     {
         "id": 17,
@@ -125,7 +125,7 @@
         "description": "Stazione di San Leonardo.",
         "latitude": 40.8533,
         "longitude": 14.3012,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/17.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/17.png"
     },
     {
         "id": 18,
@@ -133,7 +133,7 @@
         "description": "Stazione di San Giuseppe.",
         "latitude": 40.8534,
         "longitude": 14.3013,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/18.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/18.png"
     },
     {
         "id": 19,
@@ -141,7 +141,7 @@
         "description": "Stazione di Casilli.",
         "latitude": 40.8535,
         "longitude": 14.3014,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/19.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/19.png"
     },
     {
         "id": 20,
@@ -149,7 +149,7 @@
         "description": "Stazione di Terzigno.",
         "latitude": 40.8536,
         "longitude": 14.3015,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/20.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/20.png"
     },
     {
         "id": 21,
@@ -157,7 +157,7 @@
         "description": "Stazione di Flocco.",
         "latitude": 40.8537,
         "longitude": 14.3016,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/21.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/21.png"
     },
     {
         "id": 22,
@@ -165,7 +165,7 @@
         "description": "Stazione di Poggiomarino.",
         "latitude": 40.8538,
         "longitude": 14.3017,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/22.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/22.png"
     },
     {
         "id": 23,
@@ -173,7 +173,7 @@
         "description": "Stazione di Striano.",
         "latitude": 40.8539,
         "longitude": 14.3018,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/23.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/23.png"
     },
     {
         "id": 24,
@@ -181,7 +181,7 @@
         "description": "Stazione di San Valentino.",
         "latitude": 40.8540,
         "longitude": 14.3019,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/24.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/24.png"
     },
     {
         "id": 25,
@@ -189,7 +189,7 @@
         "description": "Stazione di Sarno.",
         "latitude": 40.8541,
         "longitude": 14.3020,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/25.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/25.png"
     },
     {
         "id": 26,
@@ -197,7 +197,7 @@
         "description": "Stazione di Santa Maria del Pozzo.",
         "latitude": 40.8542,
         "longitude": 14.3021,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/26.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/26.png"
     },
     {
         "id": 27,
@@ -205,7 +205,7 @@
         "description": "Stazione di San Giorgio a Cremano.",
         "latitude": 40.8543,
         "longitude": 14.3022,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/27.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/27.png"
     },
     {
         "id": 28,
@@ -213,7 +213,7 @@
         "description": "Stazione di Cavalli di Bronzo.",
         "latitude": 40.8544,
         "longitude": 14.3023,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/28.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/28.png"
     },
     {
         "id": 29,
@@ -221,7 +221,7 @@
         "description": "Stazione di Portici Bellavista.",
         "latitude": 40.8545,
         "longitude": 14.3024,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/29.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/29.png"
     },
     {
         "id": 30,
@@ -229,7 +229,7 @@
         "description": "Stazione di Portici via Libertà.",
         "latitude": 40.8546,
         "longitude": 14.3025,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/30.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/30.png"
     },
     {
         "id": 31,
@@ -237,7 +237,7 @@
         "description": "Stazione di Ercolano Scavi.",
         "latitude": 40.8547,
         "longitude": 14.3026,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/31.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/31.png"
     },
     {
         "id": 32,
@@ -245,7 +245,7 @@
         "description": "Stazione di Ercolano Miglio d'Oro.",
         "latitude": 40.8548,
         "longitude": 14.3027,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/32.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/32.png"
     },
     {
         "id": 33,
@@ -253,7 +253,7 @@
         "description": "Stazione di Torre del Greco.",
         "latitude": 40.8549,
         "longitude": 14.3028,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/33.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/33.png"
     },
     {
         "id": 34,
@@ -261,7 +261,7 @@
         "description": "Stazione di Via Sant'Antonio.",
         "latitude": 40.8550,
         "longitude": 14.3029,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/34.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/34.png"
     },
     {
         "id": 35,
@@ -269,7 +269,7 @@
         "description": "Stazione di Via del Monte.",
         "latitude": 40.8551,
         "longitude": 14.3030,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/35.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/35.png"
     },
     {
         "id": 37,
@@ -277,7 +277,7 @@
         "description": "Stazione di Villa delle Ginestre.",
         "latitude": 40.8552,
         "longitude": 14.3031,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/37.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/37.png"
     },
     {
         "id": 38,
@@ -285,7 +285,7 @@
         "description": "Stazione di Leopardi.",
         "latitude": 40.8553,
         "longitude": 14.3032,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/38.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/38.png"
     },
     {
         "id": 40,
@@ -293,7 +293,7 @@
         "description": "Stazione di Trecase.",
         "latitude": 40.8554,
         "longitude": 14.3033,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/40.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/40.png"
     },
     {
         "id": 41,
@@ -301,7 +301,7 @@
         "description": "Stazione di Torre Annunziata - Oplonti.",
         "latitude": 40.8555,
         "longitude": 14.3034,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/41.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/41.png"
     },
     {
         "id": 42,
@@ -309,7 +309,7 @@
         "description": "Stazione di Boscotrecase.",
         "latitude": 40.8556,
         "longitude": 14.3035,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/42.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/42.png"
     },
     {
         "id": 43,
@@ -317,7 +317,7 @@
         "description": "Stazione di Boscoreale.",
         "latitude": 40.8557,
         "longitude": 14.3036,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/43.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/43.png"
     },
     {
         "id": 44,
@@ -325,7 +325,7 @@
         "description": "Stazione di Villa Regina.",
         "latitude": 40.8558,
         "longitude": 14.3037,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/44.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/44.png"
     },
     {
         "id": 45,
@@ -333,7 +333,7 @@
         "description": "Stazione di Pompei Santuario.",
         "latitude": 40.8559,
         "longitude": 14.3038,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/45.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/45.png"
     },
     {
         "id": 46,
@@ -341,7 +341,7 @@
         "description": "Stazione di Scafati.",
         "latitude": 40.8560,
         "longitude": 14.3039,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/46.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/46.png"
     },
     {
         "id": 47,
@@ -349,7 +349,7 @@
         "description": "Stazione di San Pietro.",
         "latitude": 40.8561,
         "longitude": 14.3040,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/47.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/47.png"
     },
     {
         "id": 48,
@@ -357,7 +357,7 @@
         "description": "Stazione di Via Cangiani.",
         "latitude": 40.8562,
         "longitude": 14.3041,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/48.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/48.png"
     },
     {
         "id": 49,
@@ -365,7 +365,7 @@
         "description": "Stazione di Pompei scavi - Villa dei Misteri.",
         "latitude": 40.8563,
         "longitude": 14.3042,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/49.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/49.png"
     },
     {
         "id": 51,
@@ -373,7 +373,7 @@
         "description": "Stazione di Pioppaino.",
         "latitude": 40.8564,
         "longitude": 14.3043,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/51.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/51.png"
     },
     {
         "id": 52,
@@ -381,7 +381,7 @@
         "description": "Stazione di Via Nocera.",
         "latitude": 40.8565,
         "longitude": 14.3044,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/52.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/52.png"
     },
     {
         "id": 53,
@@ -389,7 +389,7 @@
         "description": "Stazione di Castellammare di Stabia.",
         "latitude": 40.8566,
         "longitude": 14.3045,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/53.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/53.png"
     },
     {
         "id": 57,
@@ -397,7 +397,7 @@
         "description": "Stazione di Vico Equense.",
         "latitude": 40.8567,
         "longitude": 14.3046,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/57.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/57.png"
     },
     {
         "id": 58,
@@ -405,7 +405,7 @@
         "description": "Stazione di Seiano.",
         "latitude": 40.8568,
         "longitude": 14.3047,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/58.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/58.png"
     },
     {
         "id": 59,
@@ -413,7 +413,7 @@
         "description": "Stazione di Meta.",
         "latitude": 40.8569,
         "longitude": 14.3048,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/59.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/59.png"
     },
     {
         "id": 60,
@@ -421,7 +421,7 @@
         "description": "Stazione di Piano di Sorrento.",
         "latitude": 40.8570,
         "longitude": 14.3049,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/60.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/60.png"
     },
     {
         "id": 61,
@@ -429,7 +429,7 @@
         "description": "Stazione di Sant'Agnello.",
         "latitude": 40.8571,
         "longitude": 14.3050,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/61.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/61.png"
     },
     {
         "id": 62,
@@ -437,7 +437,7 @@
         "description": "Stazione di Sorrento.",
         "latitude": 40.8572,
         "longitude": 14.3051,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/62.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/62.png"
     },
     {
         "id": 63,
@@ -445,7 +445,7 @@
         "description": "Stazione di Poggiorale.",
         "latitude": 40.8573,
         "longitude": 14.3052,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/63.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/63.png"
     },
     {
         "id": 64,
@@ -453,7 +453,7 @@
         "description": "Stazione di Botteghelle.",
         "latitude": 40.8574,
         "longitude": 14.3053,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/64.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/64.png"
     },
     {
         "id": 66,
@@ -461,7 +461,7 @@
         "description": "Stazione di Casalnuovo.",
         "latitude": 40.8575,
         "longitude": 14.3054,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/66.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/66.png"
     },
     {
         "id": 67,
@@ -469,7 +469,7 @@
         "description": "Stazione di Talona.",
         "latitude": 40.8576,
         "longitude": 14.3055,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/67.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/67.png"
     },
     {
         "id": 69,
@@ -477,7 +477,7 @@
         "description": "Stazione di Pratola Ponte.",
         "latitude": 40.8577,
         "longitude": 14.3056,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/69.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/69.png"
     },
     {
         "id": 70,
@@ -485,7 +485,7 @@
         "description": "Stazione di Volla.",
         "latitude": 40.8578,
         "longitude": 14.3057,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/70.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/70.png"
     },
     {
         "id": 71,
@@ -493,7 +493,7 @@
         "description": "Stazione di Castelcisterna.",
         "latitude": 40.8579,
         "longitude": 14.3058,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/71.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/71.png"
     },
     {
         "id": 72,
@@ -501,7 +501,7 @@
         "description": "Stazione di Brusciano.",
         "latitude": 40.8580,
         "longitude": 14.3059,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/72.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/72.png"
     },
     {
         "id": 73,
@@ -509,7 +509,7 @@
         "description": "Stazione di Via Vittorio Veneto.",
         "latitude": 40.8581,
         "longitude": 14.3060,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/73.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/73.png"
     },
     {
         "id": 74,
@@ -517,7 +517,7 @@
         "description": "Stazione di Marigliano.",
         "latitude": 40.8582,
         "longitude": 14.3061,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/74.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/74.png"
     },
     {
         "id": 75,
@@ -525,7 +525,7 @@
         "description": "Stazione di San Vitaliano.",
         "latitude": 40.8583,
         "longitude": 14.3062,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/75.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/75.png"
     },
     {
         "id": 76,
@@ -533,7 +533,7 @@
         "description": "Stazione di Scisciano.",
         "latitude": 40.8584,
         "longitude": 14.3063,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/76.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/76.png"
     },
     {
         "id": 77,
@@ -541,7 +541,7 @@
         "description": "Stazione di Saviano.",
         "latitude": 40.8585,
         "longitude": 14.3064,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/77.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/77.png"
     },
     {
         "id": 78,
@@ -549,7 +549,7 @@
         "description": "Stazione di Nola.",
         "latitude": 40.8586,
         "longitude": 14.3065,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/78.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/78.png"
     },
     {
         "id": 79,
@@ -557,7 +557,7 @@
         "description": "Stazione di Cimitile.",
         "latitude": 40.8587,
         "longitude": 14.3066,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/79.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/79.png"
     },
     {
         "id": 80,
@@ -565,7 +565,7 @@
         "description": "Stazione di Camposano.",
         "latitude": 40.8588,
         "longitude": 14.3067,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/80.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/80.png"
     },
     {
         "id": 81,
@@ -573,7 +573,7 @@
         "description": "Stazione di Cicciano.",
         "latitude": 40.8589,
         "longitude": 14.3068,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/81.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/81.png"
     },
     {
         "id": 82,
@@ -581,7 +581,7 @@
         "description": "Stazione di Roccarainola.",
         "latitude": 40.8590,
         "longitude": 14.3069,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/82.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/82.png"
     },
     {
         "id": 83,
@@ -589,7 +589,7 @@
         "description": "Stazione di Avella.",
         "latitude": 40.8591,
         "longitude": 14.3070,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/83.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/83.png"
     },
     {
         "id": 84,
@@ -597,7 +597,7 @@
         "description": "Stazione di Baiano.",
         "latitude": 40.8592,
         "longitude": 14.3071,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/84.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/84.png"
     },
     {
         "id": 87,
@@ -605,7 +605,7 @@
         "description": "Stazione di La Pigna.",
         "latitude": 40.8593,
         "longitude": 14.3072,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/87.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/87.png"
     },
     {
         "id": 89,
@@ -613,7 +613,7 @@
         "description": "Stazione di De Ruggiero.",
         "latitude": 40.8594,
         "longitude": 14.3073,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/89.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/89.png"
     },
     {
         "id": 90,
@@ -621,7 +621,7 @@
         "description": "Stazione di Centro Direzionale.",
         "latitude": 40.8595,
         "longitude": 14.3074,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/90.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/90.png"
     },
     {
         "id": 91,
@@ -629,7 +629,7 @@
         "description": "Stazione di Bartolo Longo.",
         "latitude": 40.8596,
         "longitude": 14.3075,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/91.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/91.png"
     },
     {
         "id": 92,
@@ -637,7 +637,7 @@
         "description": "Stazione di Vesuvio de Meis (sgv).",
         "latitude": 40.8597,
         "longitude": 14.3076,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/92.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/92.png"
     },
     {
         "id": 93,
@@ -645,7 +645,7 @@
         "description": "Stazione di Villa Visconti.",
         "latitude": 40.8598,
         "longitude": 14.3077,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/93.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/93.png"
     },
     {
         "id": 94,
@@ -653,7 +653,7 @@
         "description": "Stazione di Argine - Palasport.",
         "latitude": 40.8599,
         "longitude": 14.3078,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/94.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/94.png"
     },
     {
         "id": 95,
@@ -661,7 +661,7 @@
         "description": "Stazione di Vesuvio de Meis (sa).",
         "latitude": 40.8600,
         "longitude": 14.3079,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/95.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/95.png"
     },
     {
         "id": 96,
@@ -669,7 +669,7 @@
         "description": "Stazione di Madonnelle.",
         "latitude": 40.8601,
         "longitude": 14.3080,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/96.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/96.png"
     },
     {
         "id": 97,
@@ -677,7 +677,7 @@
         "description": "Stazione di Salice.",
         "latitude": 40.8602,
         "longitude": 14.3081,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/97.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/97.png"
     },
     {
         "id": 107,
@@ -685,7 +685,7 @@
         "description": "Stazione di Pozzuoli.",
         "latitude": 40.8603,
         "longitude": 14.3082,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/107.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/107.png"
     },
     {
         "id": 109,
@@ -693,6 +693,6 @@
         "description": "Stazione di Quarto.",
         "latitude": 40.8604,
         "longitude": 14.3083,
-        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/main/images/109.png"
+        "image": "https://raw.githubusercontent.com/dreamwhite/cv-train-app-data/master/images/109.png"
     }
 ]
